@@ -3,10 +3,15 @@
 ## Overview
 
 This project automates the process of molecular docking using AutoDock and Vina.
+
 It includes scripts to convert PDB files to PDBQT format and to perform docking for receptor-ligand pairs.
+
 The project aims to streamline the docking process, making it easier to handle multiple receptor-ligand pairs.
+
 No documentation is available for now, but the scripts are commented for ease of understanding.
-please feel free to reach out to me if you have any questions or need help with the scripts.
+
+Please feel free to reach out to me if you have any questions or need help with the scripts.
+
 It is still in it's initial stages and is being developed further.
 
 ![alt text](Docking_Automation.png "Title")
