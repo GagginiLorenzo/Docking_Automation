@@ -25,6 +25,10 @@ autogrid_executable = "./autogrid4" # Autogrid executable
 vina_executable = "./vina_1.2.5_linux_x86_64" # Vina executable
 autodock_executable = "./autodock4" # Autodock executable
 
+# Check if the user wants to run AutoDock
+run_autodock = False  # Set this to False if you don't want to run AutoDock and only want to run Vina
+
+
 # Iterate through PDBQT files (assuming receptor and ligand have specific naming conventions _receptor and _ligand)
 # and perform docking for each pair
 for receptor_file in os.listdir(pdbqt_folder): # For each pdbqt file in the folder
@@ -45,9 +49,6 @@ for receptor_file in os.listdir(pdbqt_folder): # For each pdbqt file in the fold
                 dlg_file = os.path.join(autodock_folder, f"{base_name}.dlg")
 
                 print(f"Docking: {receptor_file} with {ligand_file}")
-
-                # Check if the user wants to run AutoDock
-                run_autodock = False  # Set this to False if you don't want to run AutoDock and only want to run Vina
 
                 if run_autodock:
                     # Generate a dummy GPF (grid parameter file) from the template for autogrid
