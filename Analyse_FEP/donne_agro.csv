@@ -1,0 +1,157 @@
+Enzyme,Ligand,Vscore,distance
+Wild type CpIP2,Ferulic Acid,-6.00,3.410
+Wild type CpIP2,Gallic Acid,-5.20,3.582
+Wild type CpIP2,Caffeic Acid,-6.00,3.342
+Wild type CpIP2,4-METHOXYPHENETHYL ALCOHOL,-6.00,5.388
+Wild type CpIP2,CINNAMYL ALCOHOL,-5.20,3.438
+Wild type CpIP2,DIMETHOXYBENZYL ALCOHOL,-4.90,3.802
+Wild type CpIP2 (with palmitic acid),Ferulic Acid,-6.00,3.410
+Wild type CpIP2 (with palmitic acid),Gallic Acid,-5.20,3.582
+Wild type CpIP2 (with palmitic acid),Caffeic Acid,-6.00,3.342
+Wild type CpIP2 (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-6.00,5.388
+Wild type CpIP2 (with palmitic acid),CINNAMYL ALCOHOL,-5.20,3.438
+Wild type CpIP2 (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-4.90,3.802
+CpIP2 mutant S369A,Ferulic Acid,-6.00,3.403
+CpIP2 mutant S369A,Gallic Acid,-5.20,3.810
+CpIP2 mutant S369A,Caffeic Acid,-6.60,3.336
+CpIP2 mutant S369A,4-METHOXYPHENETHYL ALCOHOL,-4.90,3.634
+CpIP2 mutant S369A,CINNAMYL ALCOHOL,-5.20,3.545
+CpIP2 mutant S369A,DIMETHOXYBENZYL ALCOHOL,-4.70,3.572
+CpIP2 mutant S369A (with palmitic acid),Ferulic Acid,-4.90,3.634
+CpIP2 mutant S369A (with palmitic acid),Gallic Acid,-5.20,3.545
+CpIP2 mutant S369A (with palmitic acid),Caffeic Acid,-6.60,3.336
+CpIP2 mutant S369A (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-4.90,3.634
+CpIP2 mutant S369A (with palmitic acid),CINNAMYL ALCOHOL,-5.20,3.545
+CpIP2 mutant S369A (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-4.70,3.572
+CpIP2 mutant S369C,Ferulic Acid,-6.20,3.357
+CpIP2 mutant S369C,Gallic Acid,-5.00,3.337
+CpIP2 mutant S369C,Caffeic Acid,-6.10,3.316
+CpIP2 mutant S369C,4-METHOXYPHENETHYL ALCOHOL,-4.60,3.605
+CpIP2 mutant S369C,CINNAMYL ALCOHOL,-5.10,3.886
+CpIP2 mutant S369C,DIMETHOXYBENZYL ALCOHOL,-4.90,3.832
+CpIP2 mutant S369C (with palmitic acid),Ferulic Acid,-4.60,3.605
+CpIP2 mutant S369C (with palmitic acid),Gallic Acid,-5.10,3.886
+CpIP2 mutant S369C (with palmitic acid),Caffeic Acid,-6.10,3.316
+CpIP2 mutant S369C (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-4.60,3.605
+CpIP2 mutant S369C (with palmitic acid),CINNAMYL ALCOHOL,-5.10,3.886
+CpIP2 mutant S369C (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-4.90,3.832
+CpIP2 mutant Y179F,Ferulic Acid,-6.30,3.297
+CpIP2 mutant Y179F,Gallic Acid,-5.70,3.321
+CpIP2 mutant Y179F,Caffeic Acid,-6.10,3.335
+CpIP2 mutant Y179F,4-METHOXYPHENETHYL ALCOHOL,-4.90,3.646
+CpIP2 mutant Y179F,CINNAMYL ALCOHOL,-5.20,3.848
+CpIP2 mutant Y179F,DIMETHOXYBENZYL ALCOHOL,-4.80,3.326
+CpIP2 mutant Y179F (with palmitic acid),Ferulic Acid,-4.90,3.646
+CpIP2 mutant Y179F (with palmitic acid),Gallic Acid,-5.20,3.848
+CpIP2 mutant Y179F (with palmitic acid),Caffeic Acid,-6.10,3.335
+CpIP2 mutant Y179F (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-4.90,3.646
+CpIP2 mutant Y179F (with palmitic acid),CINNAMYL ALCOHOL,-5.20,3.848
+CpIP2 mutant Y179F (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-4.80,3.326
+CpIP2 mutant P429F,Ferulic Acid,-6.20,3.306
+CpIP2 mutant P429F,Gallic Acid,-5.70,3.310
+CpIP2 mutant P429F,Caffeic Acid,-6.30,3.324
+CpIP2 mutant P429F,4-METHOXYPHENETHYL ALCOHOL,-5.00,3.419
+CpIP2 mutant P429F,CINNAMYL ALCOHOL,-5.30,4.333
+CpIP2 mutant P429F,DIMETHOXYBENZYL ALCOHOL,-4.90,3.382
+CpIP2 mutant P429F (with palmitic acid),Ferulic Acid,-5.00,3.419
+CpIP2 mutant P429F (with palmitic acid),Gallic Acid,-5.30,4.333
+CpIP2 mutant P429F (with palmitic acid),Caffeic Acid,-6.30,3.324
+CpIP2 mutant P429F (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-5.00,3.419
+CpIP2 mutant P429F (with palmitic acid),CINNAMYL ALCOHOL,-5.30,4.333
+CpIP2 mutant P429F (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-4.90,3.382
+CpIP2 mutant A333E,Ferulic Acid,-6.40,3.264
+CpIP2 mutant A333E,Gallic Acid,-5.50,3.470
+CpIP2 mutant A333E,Caffeic Acid,-6.00,3.211
+CpIP2 mutant A333E,4-METHOXYPHENETHYL ALCOHOL,-4.90,3.426
+CpIP2 mutant A333E,CINNAMYL ALCOHOL,-5.20,3.788
+CpIP2 mutant A333E,DIMETHOXYBENZYL ALCOHOL,-5.00,3.754
+CpIP2 mutant A333E (with palmitic acid),Ferulic Acid,-4.90,3.426
+CpIP2 mutant A333E (with palmitic acid),Gallic Acid,-5.20,3.788
+CpIP2 mutant A333E (with palmitic acid),Caffeic Acid,-6.00,3.211
+CpIP2 mutant A333E (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-4.90,3.426
+CpIP2 mutant A333E (with palmitic acid),CINNAMYL ALCOHOL,-5.20,3.788
+CpIP2 mutant A333E (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-5.00,3.754
+CpIP2 mutant E116L,Ferulic Acid,-6.40,3.456
+CpIP2 mutant E116L,Gallic Acid,-5.40,3.962
+CpIP2 mutant E116L,Caffeic Acid,-6.30,3.347
+CpIP2 mutant E116L,4-METHOXYPHENETHYL ALCOHOL,-5.60,3.352
+CpIP2 mutant E116L,CINNAMYL ALCOHOL,-5.80,3.348
+CpIP2 mutant E116L,DIMETHOXYBENZYL ALCOHOL,-5.70,3.184
+CpIP2 mutant E116L (with palmitic acid),Ferulic Acid,-5.60,3.352
+CpIP2 mutant E116L (with palmitic acid),Gallic Acid,-5.80,3.348
+CpIP2 mutant E116L (with palmitic acid),Caffeic Acid,-6.30,3.347
+CpIP2 mutant E116L (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-5.60,3.352
+CpIP2 mutant E116L (with palmitic acid),CINNAMYL ALCOHOL,-5.80,3.348
+CpIP2 mutant E116L (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-5.70,3.184
+CpIP2 mutant N164K,Ferulic Acid,-6.10,3.736
+CpIP2 mutant N164K,Gallic Acid,-5.50,3.454
+CpIP2 mutant N164K,Caffeic Acid,-6.20,3.518
+CpIP2 mutant N164K,4-METHOXYPHENETHYL ALCOHOL,-5.20,3.289
+CpIP2 mutant N164K,CINNAMYL ALCOHOL,-5.30,3.293
+CpIP2 mutant N164K,DIMETHOXYBENZYL ALCOHOL,-5.20,3.257
+CpIP2 mutant N164K (with palmitic acid),Ferulic Acid,-5.20,3.289
+CpIP2 mutant N164K (with palmitic acid),Gallic Acid,-5.30,3.293
+CpIP2 mutant N164K (with palmitic acid),Caffeic Acid,-6.20,3.518
+CpIP2 mutant N164K (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-5.20,3.289
+CpIP2 mutant N164K (with palmitic acid),CINNAMYL ALCOHOL,-5.30,3.293
+CpIP2 mutant N164K (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-5.20,3.257
+CpIP2 mutant Y179F/S69A,Ferulic Acid,-6.40,3.330
+CpIP2 mutant Y179F/S69A,Gallic Acid,-5.50,3.419
+CpIP2 mutant Y179F/S69A,Caffeic Acid,-6.30,3.293
+CpIP2 mutant Y179F/S69A,4-METHOXYPHENETHYL ALCOHOL,-4.90,3.766
+CpIP2 mutant Y179F/S69A,CINNAMYL ALCOHOL,-5.20,3.565
+CpIP2 mutant Y179F/S69A,DIMETHOXYBENZYL ALCOHOL,-5.00,3.742
+CpIP2 mutant Y179F/S69A (with palmitic acid),Ferulic Acid,-4.90,3.766
+CpIP2 mutant Y179F/S69A (with palmitic acid),Gallic Acid,-5.20,3.565
+CpIP2 mutant Y179F/S69A (with palmitic acid),Caffeic Acid,-6.30,3.293
+CpIP2 mutant Y179F/S69A (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-4.90,3.766
+CpIP2 mutant Y179F/S69A (with palmitic acid),CINNAMYL ALCOHOL,-5.20,3.565
+CpIP2 mutant Y179F/S69A (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-5.00,3.742
+WT CalA (different distance),Ferulic Acid,-5.60,3.615
+WT CalA (different distance),Gallic Acid,-5.10,5.436
+WT CalA (different distance),Caffeic Acid,-6.40,4.389
+WT CalA (different distance),4-METHOXYPHENETHYL ALCOHOL,-4.50,23.920
+WT CalA (different distance),CINNAMYL ALCOHOL,-4.30,10.115
+WT CalA (different distance),DIMETHOXYBENZYL ALCOHOL,-4.00,10.075
+WT CalA (different distance) (with palmitic acid),Ferulic Acid,-5.60,3.615
+WT CalA (different distance) (with palmitic acid),Gallic Acid,-5.10,5.436
+WT CalA (different distance) (with palmitic acid),Caffeic Acid,-6.40,4.389
+WT CalA (different distance) (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-4.50,23.920
+WT CalA (different distance) (with palmitic acid),CINNAMYL ALCOHOL,-4.30,10.115
+WT CalA (different distance) (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-4.00,10.075
+Wild type CalB,Ferulic Acid,-6.20,3.949
+Wild type CalB,Gallic Acid,-5.70,3.765
+Wild type CalB,Caffeic Acid,-6.40,3.560
+Wild type CalB,4-METHOXYPHENETHYL ALCOHOL,1.40,3.548
+Wild type CalB,CINNAMYL ALCOHOL,-3.80,10.553
+Wild type CalB,DIMETHOXYBENZYL ALCOHOL,-3.50,12.144
+Wild type CalB (with palmitic acid),Ferulic Acid,-6.20,3.949
+Wild type CalB (with palmitic acid),Gallic Acid,-5.70,3.765
+Wild type CalB (with palmitic acid),Caffeic Acid,-6.40,3.560
+Wild type CalB (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,1.40,3.548
+Wild type CalB (with palmitic acid),CINNAMYL ALCOHOL,-3.80,10.553
+Wild type CalB (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-3.50,12.144
+Wild type CduLAc,Ferulic Acid,-5.60,3.596
+Wild type CduLAc,Gallic Acid,-4.90,3.545
+Wild type CduLAc,Caffeic Acid,-5.20,3.659
+Wild type CduLAc,4-METHOXYPHENETHYL ALCOHOL,-5.00,3.418
+Wild type CduLAc,CINNAMYL ALCOHOL,-5.30,3.813
+Wild type CduLAc,DIMETHOXYBENZYL ALCOHOL,-4.70,3.427
+Wild type CduLAc (with palmitic acid),Ferulic Acid,-5.60,3.596
+Wild type CduLAc (with palmitic acid),Gallic Acid,-4.90,3.545
+Wild type CduLAc (with palmitic acid),Caffeic Acid,-5.20,3.659
+Wild type CduLAc (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-5.00,3.418
+Wild type CduLAc (with palmitic acid),CINNAMYL ALCOHOL,-5.30,3.813
+Wild type CduLAc (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-4.70,3.427
+Wild type tannase Atan1p,Ferulic Acid,-6.60,5.816
+Wild type tannase Atan1p,Gallic Acid,-5.20,6.744
+Wild type tannase Atan1p,Caffeic Acid,-5.80,5.360
+Wild type tannase Atan1p,4-METHOXYPHENETHYL ALCOHOL,-4.00,4.238
+Wild type tannase Atan1p,CINNAMYL ALCOHOL,-4.50,4.949
+Wild type tannase Atan1p,DIMETHOXYBENZYL ALCOHOL,-4.10,4.269
+Wild type tannase Atan1p (with palmitic acid),Ferulic Acid,-6.60,5.816
+Wild type tannase Atan1p (with palmitic acid),Gallic Acid,-5.20,6.744
+Wild type tannase Atan1p (with palmitic acid),Caffeic Acid,-5.80,5.360
+Wild type tannase Atan1p (with palmitic acid),4-METHOXYPHENETHYL ALCOHOL,-4.00,4.238
+Wild type tannase Atan1p (with palmitic acid),CINNAMYL ALCOHOL,-4.50,4.949
+Wild type tannase Atan1p (with palmitic acid),DIMETHOXYBENZYL ALCOHOL,-4.10,4.269
